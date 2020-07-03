@@ -1,0 +1,68 @@
+/* CSS Document */
+#container {
+	width: 900px;
+	margin: auto;
+}
+
+#Header {
+	height: 156px;
+	background-image: url(../img/1.png);
+	margin-bottom: 5px;
+}
+
+#PageBody {
+	min-height: 400px;
+	margin-bottom: 5px;
+}
+
+
+
+#SiderBody {
+	float: left;
+	min-height: 400px;
+	width: 200px;
+	background-color: #EFEFEF;
+}
+
+#MainBody {
+	float: left;
+	width: 700px;
+	min-height: 400px;
+}
+
+#Footer {
+	height: 50px;
+	padding-top: 10px;
+	background: #6cf;
+	text-align:center;
+}
+
+#student {
+	margin: 50px auto;
+	width: 100%;
+	font-family: "宋体";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #0C1E5A;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+#student th, td {
+	border: 1px solid #333333;
+}
+
+.clear {
+	clear: both;
+}
+
+#login {
+	margin: 50px 0 0 10px;
+}
+
+#login input {
+	margin-top: 10px;
+}
